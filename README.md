@@ -20,7 +20,4 @@ segunda cambio en comando
 AGREGANDO CODIGO DE GITHUB WEB 
 a pc ignorando que se cambio cosas desde la web
 
-
-
-
-ignorando el cambio OTRA VEZ vez desde pc
+2do cambio desde web este si
