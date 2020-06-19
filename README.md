@@ -22,3 +22,7 @@ a pc ignorando que se cambio cosas desde la web
 
 2do cambio desde web este si
 asdf
+
+
+Cerrando este commit con issue 2
+
