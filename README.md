@@ -10,8 +10,8 @@ en linea de comando xd
 
 segunda cambio en comando
 
-AGREGANDO CODIGO DE GITHUB WEB 
-a pc ignorando que se cambio cosas desde la web
+
 
 SOLO GIT 2
 
+kljasdfklasjfd
