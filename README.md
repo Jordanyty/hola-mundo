@@ -2,13 +2,6 @@
 Hi Humans! Hola humanos!
 ""Mas cambios desde la pc [aparte] (2)""
 [hacemos cambio aca (3)]
-cambios desde la pc
-mas
-
-
-rama 1 ?
-rama 2 ¡
-
 haciendo cambios en la 3ra rama
 
 agregando al master
@@ -20,11 +13,5 @@ segunda cambio en comando
 AGREGANDO CODIGO DE GITHUB WEB 
 a pc ignorando que se cambio cosas desde la web
 
-2do cambio desde web este si
-asdf
-
-
-Cerrando este commit con issue 2
-
-SLO GIT
+SOLO GIT 2
 
