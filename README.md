@@ -26,3 +26,5 @@ asdf
 
 Cerrando este commit con issue 2
 
+SLO GIT
+
